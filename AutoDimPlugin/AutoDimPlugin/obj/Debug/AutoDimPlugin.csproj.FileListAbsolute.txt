@@ -1,0 +1,12 @@
+C:\Users\obayo\OneDrive\Assignments\Revit\AutoDimPlugin\AutoDimPlugin\AutoDimPlugin\obj\Debug\AutoDimPlugin.csprojAssemblyReference.cache
+C:\Users\obayo\OneDrive\Assignments\Revit\AutoDimPlugin\AutoDimPlugin\AutoDimPlugin\obj\Debug\AutoDimPlugin.csproj.CoreCompileInputs.cache
+D:\ITI\Builders+\AutoDimensions\AutoDim Plugin\Solution\AutoDimPlugin\AutoDimPlugin\bin\Debug\AutoDimPlugin.dll.config
+D:\ITI\Builders+\AutoDimensions\AutoDim Plugin\Solution\AutoDimPlugin\AutoDimPlugin\bin\Debug\AutoDimPlugin.dll
+D:\ITI\Builders+\AutoDimensions\AutoDim Plugin\Solution\AutoDimPlugin\AutoDimPlugin\bin\Debug\AutoDimPlugin.pdb
+D:\ITI\Builders+\AutoDimensions\AutoDim Plugin\Solution\AutoDimPlugin\AutoDimPlugin\bin\Debug\WindowsBase.dll
+D:\ITI\Builders+\AutoDimensions\AutoDim Plugin\Solution\AutoDimPlugin\AutoDimPlugin\obj\Debug\AutoDimPlugin.csprojAssemblyReference.cache
+D:\ITI\Builders+\AutoDimensions\AutoDim Plugin\Solution\AutoDimPlugin\AutoDimPlugin\obj\Debug\AutoDimPlugin.Properties.Resources.resources
+D:\ITI\Builders+\AutoDimensions\AutoDim Plugin\Solution\AutoDimPlugin\AutoDimPlugin\obj\Debug\AutoDimPlugin.csproj.GenerateResource.cache
+D:\ITI\Builders+\AutoDimensions\AutoDim Plugin\Solution\AutoDimPlugin\AutoDimPlugin\obj\Debug\AutoDimPlugin.csproj.CopyComplete
+D:\ITI\Builders+\AutoDimensions\AutoDim Plugin\Solution\AutoDimPlugin\AutoDimPlugin\obj\Debug\AutoDimPlugin.dll
+D:\ITI\Builders+\AutoDimensions\AutoDim Plugin\Solution\AutoDimPlugin\AutoDimPlugin\obj\Debug\AutoDimPlugin.pdb
